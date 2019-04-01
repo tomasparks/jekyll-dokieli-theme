@@ -1,0 +1,8 @@
+strict_front_matter: true
+plugins:
+ - 'jekyll-seo-tag' # setting in seo.yml
+ - 'jekyll/responsive_image'
+ - jekyll-paginate-v2
+ - 'jekyll/scholar' # settings in scholar.yml
+ # - 'jekyll/scholar/extras' # settings in scholar.yml
+ - jekyll_github_sample
